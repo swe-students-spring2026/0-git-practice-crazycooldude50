@@ -9,4 +9,4 @@ I agree with the article and your point of how AI is simply a tool we need to le
 
 #### Comment from Blake Chang (louisvcarpet)
 
-I also support the idea that AI should be viewed as a tool rather than a crutch, as highlighted in both the article and your response. This perspective is especially important for students, since real learning comes from understanding the code we write rather than outsourcing the work to AI. Great work.
+I also support the idea that AI should be viewed as a tool rather than a crutch, as highlighted in both the article and your response. This perspective is especially important for students, since real learning comes from understanding the code we write rather than outsourcing the work to AI. It is really a great work.
