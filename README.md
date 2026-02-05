@@ -7,6 +7,6 @@ I feel like currently there is a lot of fear and outrage amongst students and ne
 I agree with the article and your point of how AI is simply a tool we need to learn to use and can't rely on it. I think it is especially relevant for us as students to learn and actually understand the code we write as opposed to using AI to get te tasks done.
 
 
-#### Comment from BlakeChang(louisvcarpet)
+#### Comment from Blake Chang(louisvcarpet)
 
 I also support the idea that AI should be viewed as a tool rather than a crutch, as highlighted in both the article and your response. This perspective is especially important for students, since real learning comes from understanding the code we write rather than outsourcing the work to AI.
